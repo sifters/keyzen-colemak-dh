@@ -14,23 +14,23 @@ I recommend installing this program locally on your computer, which allows you t
 
 **Clone keyzen-colemak**
 
-```git clone git@github.com:eurekaoverdrive/keyzen-colemak.git
+	$ git clone git@github.com:eurekaoverdrive/keyzen-colemak.git
 
 **Navigate to the new folder**
 
-```cd keyzen-colemak
+	$ cd keyzen-colemak
 
 **Install the Powder gem (assuming you have Ruby installed)**
 
-```gem install powder
+	$ gem install powder
 
 **Install Pow.cx via Powder**
 
-```powder install
+	$ powder install
 
 **Set up keyzen-colemak in Pow**
 
-```powder link keyzen
+	$ powder link keyzen
 
 Open http://keyzen.dev in your browser. That's it!
 
