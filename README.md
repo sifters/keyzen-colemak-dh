@@ -13,18 +13,23 @@ Installation
 I recommend installing this program locally on your computer, which allows you to use the program when you're not connected to the net. I use [Pow.cx](http://pow.cx) by 37signals and the [Powder](https://github.com/rodreegez/powder) Ruby gem to make setup and local hosting a breeze.
 
 **Clone keyzen-colemak**
+
 ```git clone git@github.com:eurekaoverdrive/keyzen-colemak.git
 
 **Navigate to the new folder**
+
 ```cd keyzen-colemak
 
 **Install the Powder gem (assuming you have Ruby installed)**
+
 ```gem install powder
 
 **Install Pow.cx via Powder**
+
 ```powder install
 
 **Set up keyzen-colemak in Pow**
+
 ```powder link keyzen
 
 Open http://keyzen.dev in your browser. That's it!
