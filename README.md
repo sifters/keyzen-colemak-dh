@@ -41,6 +41,6 @@ I recommend installing this program locally on your computer, which allows you t
 
 Open http://keyzen.dev in your browser. That's it!
 
-Most modern operating systems have the Colemak keyboard set installed by default. If you're having trouble finding it, Google is your friend.
+Most modern operating systems have the Colemak keyboard set installed by default. If you're having trouble finding it, Google is your friend. Installation information is also available at [Colemak.com](http://colemak.com/wiki/index.php?title=Download).
 
 Enjoy!
