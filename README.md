@@ -7,8 +7,8 @@ The key sequence focuses on learning the Colemak home row, then gradually introd
 
 Keyzen automatically adds new characters to the mix as your errors decrease. Click on the character sequence at the top to increase or decrease difficulty.
 
-Check it out!
--------------
+Hosted Version
+--------------
 
 You can use keyzen-colemak without installing it. All you need is an internet connection:
 
