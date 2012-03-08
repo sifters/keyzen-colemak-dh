@@ -7,8 +7,15 @@ The key sequence focuses on learning the Colemak home row, then gradually introd
 
 Keyzen automatically adds new characters to the mix as your errors decrease. Click on the character sequence at the top to increase or decrease difficulty.
 
-Installation
-------------
+Check it out!
+-------------
+
+You can use keyzen-colemak without installing it. All you need is an internet connection:
+
+http://eurekaoverdrive.github.com/keyzen-colemak/
+
+Local Installation
+------------------
 
 I recommend installing this program locally on your computer, which allows you to use the program when you're not connected to the net. I use [Pow.cx](http://pow.cx) by 37signals and the [Powder](https://github.com/rodreegez/powder) Ruby gem to make setup and local hosting a breeze.
 
