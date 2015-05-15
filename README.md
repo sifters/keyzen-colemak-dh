@@ -12,7 +12,7 @@ Hosted Version
 
 You can use keyzen-colemak without installing it. All you need is an internet connection:
 
-http://eurekaoverdrive.github.com/keyzen-colemak/
+http://first20hours.github.com/keyzen-colemak/
 
 Local Installation
 ------------------
