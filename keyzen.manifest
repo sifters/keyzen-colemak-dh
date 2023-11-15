@@ -1,12 +1,8 @@
 CACHE MANIFEST
 # Version 4
-brushed_alu.png
-clack.wav
-click.wav
-ding.wav
+audio/ding.wav
 index.html
 jquery.js
 keyzen.js
 fonts/hack.woff
 fonts/hack.woff2
-fonts/ubuntu-mono.woff
