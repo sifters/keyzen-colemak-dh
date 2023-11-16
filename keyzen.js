@@ -93,13 +93,13 @@ function render_level() {
     var training_chars = get_training_chars();
     for (var c in data.chars) {
         if(training_chars.indexOf(data.chars[c]) != -1) {
-            chars += "<span style='color: #F00' onclick='set_level(" + c + ");'>"
+            chars += "<span style='color: #B0763B' onclick='set_level(" + c + ");'>"
         }
         else if (level_chars.indexOf(data.chars[c]) != -1) {
-            chars += "<span style='color: #000' onclick='set_level(" + c + ");'>"
+            chars += "<span style='color: #303030' onclick='set_level(" + c + ");'>"
         }
         else {
-            chars += "<span style='color: #AAA' onclick='set_level(" + c + ");'>"
+            chars += "<span style='color: #D9E6F2' onclick='set_level(" + c + ");'>"
         }
         if (data.chars[c] == ' ') {
             chars += "&#9141;";
