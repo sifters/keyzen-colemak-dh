@@ -96,7 +96,7 @@ function render_level() {
             chars += "<span style='color: #B0763B' onclick='set_level(" + c + ");'>"
         }
         else if (level_chars.indexOf(data.chars[c]) != -1) {
-            chars += "<span style='color: #303030' onclick='set_level(" + c + ");'>"
+            chars += "<span style='color: #76B03B' onclick='set_level(" + c + ");'>"
         }
         else {
             chars += "<span style='color: #D9E6F2' onclick='set_level(" + c + ");'>"
